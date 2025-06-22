@@ -1,0 +1,6 @@
+name = input("Hey, What's your name?:")
+last_name = input ("Add your last name?:")
+whole_name = (name+ " " + last_name)
+print ("hey, what's your name :",name)
+print ("And your last name :", last_name)
+print ("Well,pleased to meet you,", whole_name)
